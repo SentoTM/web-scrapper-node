@@ -2,11 +2,11 @@
     "tiendas": {
       "dungeonmarvels": {
         "url_catalogo": "https://dungeonmarvels.com/10-juegos-de-tablero",
-        "archivo_datos": "dungeonmarvels_data.json"
+        "archivo_datos": "./scraped_data/dungeonmarvels_data.json"
       },
       "jugamosuna": {
         "url_catalogo": "https://jugamosuna.es/tienda/1639-juegos-de-mesa",
-        "archivo_datos": "jugamosuna_data.json"
+        "archivo_datos": "./scraped_data/jugamosuna_data.json"
       }
     }
   }
